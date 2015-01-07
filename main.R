@@ -11,4 +11,5 @@ TestLeapYear(1600)
 TestLeapYear(1700)
 TestLeapYear(2015)
 TestLeapYear('nineteenfiftytwo') # This should raise an error message indicating a numeric class should be used
+TestLeapYear(201.3)
 
